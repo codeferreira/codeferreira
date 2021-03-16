@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Orc&Roll](https://www.orcnroll.com/)
 
-- 🌱 I’m currently learning **GraphQL, Docker and Gatsby**
+- 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 My personal site [https://ferreiracode.com](https://ferreiracode.com)
 
