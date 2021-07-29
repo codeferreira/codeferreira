@@ -11,7 +11,7 @@
 
 - 👨‍💻 My personal site [https://ferreiracode.com](https://ferreiracode.com)
 
-- 💬 Ask me about **React, NodeJS and React Native**
+- 💬 Ask me about **Ethereum, React, NodeJS and React Native**
 
 - 📫 How to reach me [@ferreiracoder](https://twitter.com/ferreiracoder)
 
