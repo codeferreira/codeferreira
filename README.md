@@ -19,11 +19,14 @@
 
 - ⚡ Fun fact **Love RPG games!**
 
-<div align="center">
+<div>
+  
+  
+<h4 align="center">A bite of what I do!</h3>
 
 [![Jose's Github Status](https://github-readme-stats.vercel.app/api?username=codeferreira&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeferreira)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeferreira&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
