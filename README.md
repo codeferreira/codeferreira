@@ -11,16 +11,19 @@
 
 - 👨‍💻 My personal site [https://ferreiracode.com](https://ferreiracode.com)
 
-- 💬 Ask me about **Elixir, React, NodeJS and React Native**
+- 💬 Ask me about **React, NodeJS and React Native**
 
 - 📫 How to reach me [@ferreiracoder](https://twitter.com/ferreiracoder)
 
-- 🌱 I’m currently learning **Elixir and Flutter**
+- 🌱 I’m currently learning **Rust and Solana**
 
 - ⚡ Fun fact **Love RPG games!**
 
 <div align="center">
 
 [![Jose's Github Status](https://github-readme-stats.vercel.app/api?username=codeferreira&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeferreira)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
