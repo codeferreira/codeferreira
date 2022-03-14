@@ -12,7 +12,7 @@
 
 <h3 align="center">A developer passionate about creating new stuff</h3>
 
-- 🔭 I'm currently working on [Blockade Games](https://blockade.games/)
+- 🔭 I'm currently working at [Blockade Games](https://blockade.games/)
 
 - 👨‍💻 My personal site [https://ferreiracode.com](https://ferreiracode.com)
 
