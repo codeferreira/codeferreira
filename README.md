@@ -24,26 +24,78 @@
 
 <div>
   
+
+<h2 align="center">📚 Skills</h2>
   
-<h4 align="center">My skills</h3>
+<h4 align="center">Front-end</h3>
+<p align="center">
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=html,css,react,redux,nextjs,styledcomponents,tailwind,bootstrap" />
+    </a>
+  </div>
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=figma" />
+    </a>
+  </div>
+</p>
+
+<h4 align="center">Programming Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=6&theme=dark&i=html,css,git,js,ts,nodejs,express,nestjs,prisma,mongodb,redis,postgres,graphql,react,nextjs,styledcomponents,tailwind,firebase,docker,supabase,vscode,linux,figma,vim" />
+    <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=js,ts,rust" />
   </a>
 </p>
   
+<h4 align="center">Back-end</h3>
+<p align="center">
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=nodejs,express,nestjs,rocket,actix,prisma,graphql,firebase" />
+    </a>
+  </div>
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=supabase" />
+    </a>
+  </div>
+</p>
+
+
+<h4 align="center">Databases</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=postgres,mysql,redis,mongodb" />
+  </a>
+</p>
+
+<h4 align="center">Others</h3>
+<p align="center">
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=linux,docker,vim,git" />
+    </a>
+  </div>
+  <div align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=heroku,vscode" />
+    </a>
+  </div>
+</p>
+
 <h4 align="center">A bite of what I do!</h3>
 
-<p>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=codeferreira&count_private=true&show_icons=true&theme=dracula" /> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeferreira&count_private=true&show_icons=true&theme=dracula" /> 
   </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeferreira&layout=compact&theme=dracula" /> 
-  </a>
-  
 </p>
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeferreira&langs_count=6&hide=java,html,css,objective-c,starlark&theme=dracula&layout=compact" /> 
+  </a>
+</p>
 
 </div>
