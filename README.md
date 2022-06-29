@@ -52,12 +52,7 @@
 <p align="center">
   <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=nodejs,express,nestjs,rocket,actix,prisma,graphql,firebase" />
-    </a>
-  </div>
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=supabase" />
+      <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=nodejs,express,nestjs,rocket,supabase,prisma,graphql,firebase" />
     </a>
   </div>
 </p>
