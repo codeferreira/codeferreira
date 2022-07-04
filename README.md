@@ -25,60 +25,6 @@
 <div>
   
 
-<h2 align="center">📚 Skills</h2>
-  
-<h4 align="center">Front-end</h3>
-<p align="center">
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=html,css,react,redux,nextjs,styledcomponents,tailwind,bootstrap" />
-    </a>
-  </div>
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=figma" />
-    </a>
-  </div>
-</p>
-
-<h4 align="center">Programming Languages</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=js,ts,rust" />
-  </a>
-</p>
-  
-<h4 align="center">Back-end</h3>
-<p align="center">
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=nodejs,express,nestjs,rocket,supabase,prisma,graphql,firebase" />
-    </a>
-  </div>
-</p>
-
-
-<h4 align="center">Databases</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=postgres,mysql,redis,mongodb" />
-  </a>
-</p>
-
-<h4 align="center">Others</h3>
-<p align="center">
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=linux,docker,vim,git" />
-    </a>
-  </div>
-  <div align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?perline=4&theme=dark&i=heroku,vscode" />
-    </a>
-  </div>
-</p>
-
 <h4 align="center">A bite of what I do!</h3>
 
 <p align="center">
