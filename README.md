@@ -12,13 +12,13 @@
 
 <h3 align="center">A developer passionate about creating new stuff</h3>
 
-- 🔭 I'm currently working at [Blockade Games](https://blockade.games/)
+- 🔭 I'm currently looking for a job
 
-- 👨‍💻 My personal site [https://ferreiracode.com](https://ferreiracode.com)
+- 👨‍💻 My personal [website](https://ferreiracode.com)
 
 - 📫 How to reach me [@ferreiracoder](https://twitter.com/ferreiracoder)
 
-- 🌱 I’m currently studying **Design System and Testing**
+- 🌱 I’m currently studying **NestJS & Microservices**
 
 - ⚡ Fun fact **Love RPG games!**
 
