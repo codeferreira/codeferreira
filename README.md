@@ -18,7 +18,7 @@
 
 - 📫 How to reach me [@ferreiracoder](https://twitter.com/ferreiracoder)
 
-- 🌱 I’m currently studying **NestJS & Microservices**
+- 🌱 I’m currently studying **Go**
 
 - ⚡ Fun fact **Love RPG games!**
 
