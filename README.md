@@ -18,7 +18,7 @@
 
 - 📫 How to reach me [@ferreiracoder](https://twitter.com/ferreiracoder)
 
-- 🌱 I’m currently studying **Go**
+- 🌱 I’m currently studying **Mobile Development with React Native & Swift**
 
 - ⚡ Fun fact **Love RPG games!**
 
